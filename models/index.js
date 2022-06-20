@@ -27,7 +27,7 @@ User.hasMany(Comment, {
     onDelete: "cascade"
 });
 
-Post.hasMabny(Comment, {
+Post.hasMany(Comment, {
     foreignKey: 'post_id',
     onDelete: "cascade"
 });
