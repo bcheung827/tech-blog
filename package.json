@@ -9,6 +9,26 @@
     "express-session": "^1.17.3",
     "handle": "^1.0.0",
     "mysql2": "^2.3.3",
+    "nodemon": "^2.0.19",
     "sequelize": "^6.21.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js",
+    "develop": "nodemon server.js"
+  },
+  "name": "tech-blog",
+  "description": "- [Description](#description)\r   - [Installation](#installation)\r   - [Usage](#usage)\r   - [Contribution](#contribution)\r   - [Testing](#testing)\r   - [Contact](#contact)",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcheung827/tech-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcheung827/tech-blog/issues"
+  },
+  "homepage": "https://github.com/bcheung827/tech-blog#readme"
 }
