@@ -14,11 +14,6 @@
     "webpack": "^5.74.0",
     "webpack-cli": "^4.10.0"
   },
-  "scripts": {
-    "start": "node server.js",
-    "develop": "nodemon server.js",
-    "build": "node server.js"
-  },
   "name": "tech-blog",
   "description": "- [Description](#description)\r   - [Installation](#installation)\r   - [Usage](#usage)\r   - [Contribution](#contribution)\r   - [Testing](#testing)\r   - [Contact](#contact)",
   "version": "1.0.0",
