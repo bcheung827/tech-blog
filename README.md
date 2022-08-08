@@ -16,8 +16,10 @@
   mysql -u root -p
 
   ## Usage
-  In the integrated terminal type node server and ...
+  node server
 
+  <img src="tech-blog.gif"><br>
+  Or view link here - [Screencastify](https://drive.google.com/file/d/1T1z5kqbr9eqLCWFrImMFALOKWmDCXe_W/view)
   ## Testing
   Install node.js and test functionality
 
